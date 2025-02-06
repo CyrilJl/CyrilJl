@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/CyrilJl/CyrilJl/blob/main/banner.gif" alt="Banner" width="700">
+</p>
+
 ## Welcome to my GitHub! 👋
 
 My name is Cyril, and I am an applied mathematics engineer, interested in machine learning, data assimilation, time series, and cartographic data more generally! You will find on my GitHub some Python package repositories available on PyPI and conda-forge:
