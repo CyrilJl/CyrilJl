@@ -10,7 +10,7 @@ My name is Cyril, and I am an applied mathematics engineer, interested in machin
 <summary><strong>Machine Learning</strong></summary>
 
 - **[optimask](https://github.com/CyrilJl/optimask)**: For managing missing data in arrays. Allows maximizing the number of valid data before learning a model.
-- **[timefiller](https://github.com/CyrilJl/timefiller)**: For imputing missing data in a block of correlated time series. An easy-to-implement and efficient package, based on optimask.
+- **[timefiller](https://github.com/CyrilJl/timefiller)**: For imputing missing data in a block of correlated time series, or forecasting with covariates containing missing data. An easy-to-implement and efficient package, based on optimask.
 - **[apyxl](https://github.com/CyrilJl/apyxl)**: A simple wrapper around xgboost, shap, and hyperopt to produce explainable non-linear regressions in one line of code. apyxl is not intended for production but rather as an aid to understanding or a first approach to a dataset.
 
 </details>
