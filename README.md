@@ -30,4 +30,11 @@ My name is Cyril, and I am an applied mathematics engineer, interested in machin
 
 </details>
 
+<details>
+<summary><strong>Visualization</strong></summary>
+
+- **[mapflow](https://github.com/CyrilJl/mapflow)**: A package to export spatio-temporal xarray.DataArray as video files, ideal for better understanding the data and the underlying physical phenomena.
+
+</details>
+
 I aim to produce well-written, documented, and easy-to-use open-source packages. Do not hesitate to open an issue if you encounter a bug or difficulty. 🙂
