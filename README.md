@@ -23,7 +23,7 @@ My name is Cyril, and I am an applied mathematics engineer, interested in machin
 </details>
 
 <details>
-<summary><strong>Weather Data ☁️</strong></summary>
+<summary><strong>Weather Data</strong></summary>
 
 - **[meteofetch](https://github.com/CyrilJl/meteofetch)**: A client for Météo-France data available on [https://meteo.data.gouv.fr/](https://meteo.data.gouv.fr/). Usable immediately because it does not require an API key.
 - **[isd-fetch](https://github.com/CyrilJl/isd-fetch)**: To retrieve ground weather observations across the globe.
