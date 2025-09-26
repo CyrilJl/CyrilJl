@@ -31,6 +31,13 @@ My name is Cyril, and I am an applied mathematics engineer, interested in machin
 </details>
 
 <details>
+<summary><strong>Geospatial Data</strong></summary>
+
+- **[rasterizer](https://github.com/CyrilJl/rasterizer)**: Easy and efficient rasterization of polygons and lines, from ``geopandas`` to ``xarray``.
+
+</details>
+
+<details>
 <summary><strong>Visualization</strong></summary>
 
 - **[mapflow](https://github.com/CyrilJl/mapflow)**: A package to export spatio-temporal xarray.DataArray as video files, ideal for better understanding the data and the underlying physical phenomena.
