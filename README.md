@@ -44,4 +44,4 @@ My name is Cyril, and I am an applied mathematics engineer, interested in machin
 
 </details>
 
-I aim to produce well-written, documented, and easy-to-use open-source packages. Do not hesitate to open an issue if you encounter a bug or difficulty. 🙂
+I aim to produce well-written, documented, and easy-to-use open-source packages. Do not hesitate to open an issue if you encounter a bug or difficulty 🙂
